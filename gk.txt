@@ -1,3 +1,4 @@
 vless://4d7c2a49-8427-4f13-bf17-1601dd31a73f@foxider.com:443?encryption=none&security=tls&sni=anten.ir&alpn=h2&fp=chrome&type=ws&host=nim-73d4f83265-yas.apps.ir-tbz-sh1.arvancaas.ir&path=%2F#gk
 vless://4d7c2a49-8427-4f13-bf17-1601dd31a73f@ariyadocs.ir:443?encryption=none&security=tls&sni=anten.ir&alpn=h2&fp=chrome&type=ws&host=nim-73d4f83265-yas.apps.ir-tbz-sh1.arvancaas.ir&path=%2F#gk
 vless://4d7c2a49-8427-4f13-bf17-1601dd31a73f@anten.ir:443?encryption=none&security=tls&sni=anten.ir&alpn=h2&fp=chrome&type=ws&host=nim-73d4f83265-yas.apps.ir-tbz-sh1.arvancaas.ir&path=%2F#gk
+vless://4d7c2a49-8427-4f13-bf17-1601dd31a73f@taxibisimtehran.com:443?encryption=none&security=tls&sni=anten.ir&alpn=h2&fp=chrome&type=ws&host=nim-73d4f83265-yas.apps.ir-tbz-sh1.arvancaas.ir&path=%2F#gk
