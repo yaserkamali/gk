@@ -1,3 +1,5 @@
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHSyIsCiAgImFkZCI6ICIyMTMuMTc2LjcuNDUiLAogICJwb3J0IjogNDE4NzcsCiAgImlkIjogIjQ4MDZhYzI0LTBlNTEtNDIxOS1hZDAxLWYwMTUzNzBjOTEwNyIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIKfQ==
-vless://b8230a6c-ebb5-4db2-b098-a456f1acf9d0@213.176.7.45:39775?type=tcp&security=none#GK1
-vless://9f3f315c-3253-49e8-953d-2e6966393efc@45.76.86.134:443?type=tcp&security=none#vless-gk2
+vless://248ebb36-a5f7-4145-b652-b8e9bcd7a8b6@213.176.7.45:47611?type=tcp&security=none#tun-direct-g
+vless://62dac5a2-b141-4896-b118-00e7e9fe6207@213.176.7.45:58658?type=ws&path=%2Feeseeerw&host=s5.tapsi.top&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=s5.tapsi.top#ws-tls-gk2
+vless://ad9fb4aa-c6d0-414d-8cd4-9060a3d5e32a@213.176.7.45:58901?type=tcp&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=s5.tapsi.top#tcp-tls-gk3
+vless://fe2b053d-0b0a-49d5-8bc4-d43ffcdd9364@213.176.7.45:25275?type=tcp&security=reality&pbk=RpoMpR3dAJZeTbYkiwBG_0-frcrlkHkP8S3x6oUqRGQ&fp=random&sni=yahoo.com&sid=6232b00825ce81&spx=%2F#tun-reality1-gk4
+vless://e09da4fe-ca88-457e-a618-ed28420b38e0@213.176.7.45:22616?type=tcp&security=reality&pbk=l8Q40nClX8PElxK7bOk3IsMQg5hbRtyi4yygG2CpKSk&fp=random&sni=ftp.debian.org&sid=7d6d&spx=%2F#tun-reality2-gk5
